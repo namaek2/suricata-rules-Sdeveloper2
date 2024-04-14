@@ -1,0 +1,173 @@
+04/01/2024-16:48:14.874978  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:35232 -> 175.116.97.147:80
+04/01/2024-16:48:26.855239  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:33044 -> 175.116.97.147:80
+04/01/2024-16:49:35.670935  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51268 -> 175.116.97.147:80
+04/01/2024-16:49:35.786614  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51268 -> 175.116.97.147:80
+04/01/2024-16:54:22.492923  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59552 -> 175.116.97.147:80
+04/01/2024-16:54:25.975886  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59552 -> 175.116.97.147:80
+04/01/2024-16:54:26.072815  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59552 -> 175.116.97.147:80
+04/01/2024-16:54:26.083678  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59560 -> 175.116.97.147:80
+04/01/2024-16:54:26.140212  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59560 -> 175.116.97.147:80
+04/01/2024-16:54:28.226912  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59552 -> 175.116.97.147:80
+04/01/2024-16:58:41.052511  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:60576 -> 52.38.7.83:80
+04/01/2024-16:58:42.542631  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:42.858588  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44534 -> 175.116.97.147:80
+04/01/2024-16:58:43.100394  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:43.688618  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:43.763877  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:43.780589  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44550 -> 175.116.97.147:80
+04/01/2024-16:58:43.790307  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.795375  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44552 -> 175.116.97.147:80
+04/01/2024-16:58:43.823196  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44572 -> 175.116.97.147:80
+04/01/2024-16:58:43.830338  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44564 -> 175.116.97.147:80
+04/01/2024-16:58:43.844643  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.850676  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.853933  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:43.856870  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44552 -> 175.116.97.147:80
+04/01/2024-16:58:43.856969  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.862399  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44550 -> 175.116.97.147:80
+04/01/2024-16:58:43.863687  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44572 -> 175.116.97.147:80
+04/01/2024-16:58:43.870542  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.882567  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.909067  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44524 -> 175.116.97.147:80
+04/01/2024-16:58:43.912428  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44564 -> 175.116.97.147:80
+04/01/2024-16:58:43.912414  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44552 -> 175.116.97.147:80
+04/01/2024-16:58:43.912393  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44550 -> 175.116.97.147:80
+04/01/2024-16:58:43.921132  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44554 -> 175.116.97.147:80
+04/01/2024-16:58:43.922415  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44572 -> 175.116.97.147:80
+04/01/2024-16:59:45.257773  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:54558 -> 175.116.97.147:80
+04/01/2024-16:59:58.160854  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:45688 -> 175.116.97.147:80
+04/01/2024-17:00:41.066407  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44422 -> 175.116.97.147:80
+04/02/2024-11:49:44.432387  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:60404 -> 223.130.200.219:443
+04/02/2024-11:49:44.434929  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:60414 -> 223.130.200.219:443
+04/02/2024-11:49:45.514008  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:44620 -> 110.93.151.131:443
+04/02/2024-11:49:45.580181  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:54906 -> 110.93.154.74:443
+04/02/2024-11:49:45.583166  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:54910 -> 110.93.154.74:443
+04/02/2024-11:49:45.586887  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:54916 -> 110.93.154.74:443
+04/02/2024-11:49:45.695863  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:36360 -> 110.93.154.77:443
+04/02/2024-11:49:45.702074  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51610 -> 210.89.168.41:443
+04/02/2024-11:49:45.706232  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51596 -> 210.89.168.41:443
+04/02/2024-11:49:45.729048  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51616 -> 210.89.168.41:443
+04/02/2024-11:49:45.729073  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:51622 -> 210.89.168.41:443
+04/02/2024-11:49:45.891119  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:34018 -> 223.130.192.205:443
+04/02/2024-11:49:45.893427  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:34030 -> 223.130.192.205:443
+04/02/2024-11:49:45.965449  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39586 -> 110.93.151.132:443
+04/02/2024-11:49:45.971416  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39582 -> 110.93.151.132:443
+04/02/2024-11:49:45.973745  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39574 -> 110.93.151.132:443
+04/02/2024-11:49:45.977763  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39560 -> 110.93.151.132:443
+04/02/2024-11:49:45.983049  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39600 -> 110.93.151.132:443
+04/02/2024-11:49:45.983548  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39616 -> 110.93.151.132:443
+04/02/2024-11:49:46.516157  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:42118 -> 210.89.168.50:443
+04/02/2024-11:49:46.527083  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:42132 -> 210.89.168.50:443
+04/02/2024-11:49:46.545499  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:34032 -> 223.130.192.205:443
+04/02/2024-11:49:46.547600  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:34044 -> 223.130.192.205:443
+04/02/2024-11:49:50.060444  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:33004 -> 172.217.25.164:443
+04/02/2024-11:49:50.064208  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:33020 -> 172.217.25.164:443
+04/02/2024-11:49:50.967971  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39640 -> 142.250.76.142:443
+04/02/2024-11:49:51.103826  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:37112 -> 142.250.206.206:443
+04/02/2024-11:49:51.869337  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39656 -> 142.250.76.142:443
+04/02/2024-11:49:51.870267  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39664 -> 142.250.76.142:443
+04/02/2024-11:49:51.944394  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:60296 -> 142.250.206.226:443
+04/02/2024-11:49:55.312385  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:33036 -> 172.217.25.164:443
+04/02/2024-11:50:00.201417  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:52120 -> 223.130.200.219:443
+04/02/2024-11:50:00.202126  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:52104 -> 223.130.200.219:443
+04/02/2024-11:50:00.204413  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:52096 -> 223.130.200.219:443
+04/02/2024-11:50:00.259271  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59730 -> 142.250.76.132:443
+04/02/2024-11:50:00.302082  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59744 -> 142.250.76.132:443
+04/02/2024-11:50:01.231188  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:48598 -> 110.93.151.162:443
+04/02/2024-11:50:01.488124  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39580 -> 110.93.154.74:443
+04/02/2024-11:50:01.503507  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:43414 -> 110.93.154.77:443
+04/02/2024-11:50:01.506850  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39606 -> 110.93.154.74:443
+04/02/2024-11:50:01.510184  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39592 -> 110.93.154.74:443
+04/02/2024-11:50:01.515622  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39584 -> 110.93.154.74:443
+04/02/2024-11:50:01.516047  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:39086 -> 110.93.151.131:443
+04/02/2024-11:50:01.700395  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49722 -> 210.89.168.70:443
+04/02/2024-11:50:01.712294  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49706 -> 210.89.168.70:443
+04/02/2024-11:50:01.714859  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49712 -> 210.89.168.70:443
+04/02/2024-11:50:01.716800  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49710 -> 210.89.168.70:443
+04/02/2024-11:50:01.980628  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:57448 -> 223.130.192.205:443
+04/02/2024-11:50:01.982249  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:57434 -> 223.130.192.205:443
+04/02/2024-11:50:04.356788  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59048 -> 142.250.76.138:443
+04/02/2024-11:50:04.362944  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:60914 -> 172.217.161.238:443
+04/02/2024-11:50:04.377301  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:59052 -> 142.250.76.138:443
+04/02/2024-11:50:04.925166  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49248 -> 108.177.97.84:443
+04/02/2024-11:50:05.293889  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49424 -> 142.250.76.142:443
+04/02/2024-11:50:05.300519  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49444 -> 142.250.76.142:443
+04/02/2024-11:50:05.312581  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49440 -> 142.250.76.142:443
+04/02/2024-11:50:05.314346  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.45:49256 -> 108.177.97.84:443
+04/14/2024-22:06:27.835435  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:58954 -> 175.116.97.147:80
+04/14/2024-22:06:36.984146  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:45280 -> 172.217.31.132:443
+04/14/2024-22:06:36.989800  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:45266 -> 172.217.31.132:443
+04/14/2024-22:06:42.705812  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:40764 -> 110.93.151.131:443
+04/14/2024-22:06:42.966930  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47956 -> 23.51.28.215:443
+04/14/2024-22:06:44.267754  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47944 -> 142.250.206.228:443
+04/14/2024-22:06:44.747537  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:60752 -> 142.250.196.138:443
+04/14/2024-22:06:45.158510  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:32850 -> 210.89.168.41:443
+04/14/2024-22:06:45.243450  [**] [1:10006:1] archlinux.org https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:59422 -> 95.217.163.246:443
+04/14/2024-22:06:45.249006  [**] [1:10006:1] archlinux.org https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:59418 -> 95.217.163.246:443
+04/14/2024-22:06:46.391679  [**] [1:10007:1] suricata.io https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:40766 -> 35.212.0.44:443
+04/14/2024-22:06:46.778474  [**] [1:10008:1] github.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:36004 -> 20.200.245.245:443
+04/14/2024-22:06:46.893802  [**] [1:10009:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:49246 -> 18.64.8.91:443
+04/14/2024-22:06:47.167387  [**] [1:10010:1] gitlab.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:44132 -> 172.64.153.92:443
+04/14/2024-22:06:47.193418  [**] [1:10008:1] github.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:45814 -> 140.82.112.22:443
+04/14/2024-22:06:47.209390  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43640 -> 64.233.189.84:443
+04/14/2024-22:06:47.407764  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47350 -> 172.217.25.164:443
+04/14/2024-22:06:47.695542  [**] [1:10009:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:60602 -> 14.34.8.200:443
+04/14/2024-22:06:47.764671  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:44240 -> 210.89.167.46:443
+04/14/2024-22:06:47.925492  [**] [1:10011:1] autopsy.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:54944 -> 141.193.213.11:443
+04/14/2024-22:06:48.050099  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43652 -> 64.233.189.84:443
+04/14/2024-22:06:49.006346  [**] [1:10009:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43542 -> 14.34.8.207:443
+04/14/2024-22:06:49.057056  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47200 -> 223.130.192.18:443
+04/14/2024-22:06:49.122011  [**] [1:10013:1] hancomdocs.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:38674 -> 3.35.251.96:443
+04/14/2024-22:06:49.137237  [**] [1:10009:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43552 -> 14.34.8.207:443
+04/14/2024-22:06:49.204611  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47354 -> 172.217.25.164:443
+04/14/2024-22:06:49.208973  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47360 -> 172.217.25.164:443
+04/14/2024-22:06:50.122903  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:32832 -> 110.93.151.162:443
+04/14/2024-22:06:50.197123  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53448 -> 223.130.192.205:443
+04/14/2024-22:06:50.197914  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53430 -> 223.130.192.205:443
+04/14/2024-22:06:50.197905  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53438 -> 223.130.192.205:443
+04/14/2024-22:06:50.200447  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53420 -> 223.130.192.205:443
+04/14/2024-22:06:50.202503  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53410 -> 223.130.192.205:443
+04/14/2024-22:06:50.202495  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:53398 -> 223.130.192.205:443
+04/14/2024-22:06:50.376829  [**] [1:10014:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48330 -> 54.192.175.35:443
+04/14/2024-22:06:50.695869  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48040 -> 175.106.84.190:443
+04/14/2024-22:06:53.468620  [**] [1:10016:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:37224 -> 128.61.240.205:443
+04/14/2024-22:06:53.664233  [**] [1:10009:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:56494 -> 117.52.180.30:443
+04/14/2024-22:06:53.813751  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48062 -> 175.106.84.190:443
+04/14/2024-22:06:53.815388  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48056 -> 175.106.84.190:443
+04/14/2024-22:06:53.823749  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48086 -> 175.106.84.190:443
+04/14/2024-22:06:53.824904  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48074 -> 175.106.84.190:443
+04/14/2024-22:06:53.827942  [**] [1:100015:1] jbnu.ac.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48066 -> 175.106.84.190:443
+04/14/2024-22:06:53.833145  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:55716 -> 216.239.34.181:443
+04/14/2024-22:06:53.860592  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:35410 -> 172.217.175.110:443
+04/14/2024-22:06:55.149328  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34844 -> 23.51.28.215:443
+04/14/2024-22:06:55.151647  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34828 -> 23.51.28.215:443
+04/14/2024-22:06:55.151668  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34812 -> 23.51.28.215:443
+04/14/2024-22:06:55.155849  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34910 -> 23.51.28.215:443
+04/14/2024-22:06:55.157656  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34894 -> 23.51.28.215:443
+04/14/2024-22:06:55.158650  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34884 -> 23.51.28.215:443
+04/14/2024-22:06:55.161516  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34872 -> 23.51.28.215:443
+04/14/2024-22:06:55.164358  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34858 -> 23.51.28.215:443
+04/14/2024-22:06:55.166754  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:34854 -> 23.51.28.215:443
+04/14/2024-22:06:59.176302  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43362 -> 223.130.192.205:443
+04/14/2024-22:06:59.180791  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:51248 -> 210.89.167.46:443
+04/14/2024-22:07:05.318020  [**] [1:10014:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:51278 -> 13.225.114.3:443
+04/14/2024-22:07:05.702483  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43366 -> 223.130.192.205:443
+04/14/2024-22:07:05.705694  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:42438 -> 23.51.28.215:443
+04/14/2024-22:07:06.577822  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:60286 -> 216.239.36.181:443
+04/14/2024-22:07:07.533962  [**] [1:10013:1] hancomdocs.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:41020 -> 43.203.76.238:443
+04/14/2024-22:07:07.766798  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:57482 -> 216.239.34.181:443
+04/14/2024-22:07:08.336042  [**] [1:10014:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:48544 -> 18.244.61.28:443
+04/14/2024-22:07:09.924183  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:38866 -> 110.93.147.30:443
+04/14/2024-22:07:10.036525  [**] [1:10004:1] naver.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:50184 -> 210.89.167.46:443
+04/14/2024-22:07:10.303874  [**] [1:10012:1] notion.so https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:44434 -> 104.18.39.102:443
+04/14/2024-22:07:10.391049  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43714 -> 172.217.161.238:443
+04/14/2024-22:07:10.584254  [**] [1:10012:1] notion.so https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:44438 -> 104.18.39.102:443
+04/14/2024-22:07:15.239759  [**] [1:10012:1] notion.so https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:44454 -> 104.18.39.102:443
+04/14/2024-22:07:17.591047  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:47272 -> 142.250.76.142:443
+04/14/2024-22:07:17.673539  [**] [1:10010:1] gitlab.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:56242 -> 172.65.251.78:443
+04/14/2024-22:07:25.966406  [**] [1:10013:1] hancomdocs.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:50476 -> 3.35.251.96:443
+04/14/2024-22:07:26.007626  [**] [1:10013:1] hancomdocs.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:50488 -> 3.35.251.96:443
+04/14/2024-22:07:26.874008  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:43626 -> 142.250.206.238:443
+04/14/2024-22:07:27.356617  [**] [1:10014:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:45216 -> 13.225.114.3:443
+04/14/2024-22:07:27.368692  [**] [1:10014:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:45218 -> 13.225.114.3:443
+04/14/2024-22:07:40.916914  [**] [1:10005:1] google.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 192.100.2.134:42562 -> 142.250.206.238:443

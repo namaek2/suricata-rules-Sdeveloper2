@@ -1,0 +1,39 @@
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10001; rev:1;)
+
+alert tcp any any -> any 80 (msg:"netflix.com access"; content:"GET /"; content:"Host: "; content:"netflix.com"; sid:10002; rev:1;)
+
+alert tcp any any -> any 80 (msg:"qt.io access"; content:"GET /"; content:"Host: "; content:"qt.io"; sid:10003; rev:1;)
+
+alert tls any any -> any 443 (msg:"naver.com https access"; tls.sni; dotprefix; content:"naver.com"; sid:10004; rev:1;)
+
+alert tls any any -> any 443 (msg:"google.com https access"; tls.sni; dotprefix; content:"google.com"; sid:10005; rev:1;)
+
+alert tls any any -> any 443 (msg:"archlinux.org https access"; tls.sni; dotprefix; content:"archlinux.org"; sid:10006; rev:1;)
+
+alert tls any any -> any 443 (msg:"suricata.io https access"; tls.sni; dotprefix; content:"suricata.io"; sid:10007; rev:1;)
+
+alert tls any any -> any 443 (msg:"github.com https access"; tls.sni; dotprefix; content:"github.com"; sid:10008; rev:1;)
+
+alert tls any any -> any 443 (msg:"tving.com https access"; tls.sni; dotprefix; content:"tving.com"; sid:10009; rev:1;)
+
+alert tls any any -> any 443 (msg:"gitlab.com https access"; tls.sni; dotprefix; content:"gitlab.com"; sid:10010; rev:1;)
+
+alert tls any any -> any 443 (msg:"autopsy.com https access"; tls.sni; dotprefix; content:"autopsy.com"; sid:10011; rev:1;)
+
+alert tls any any -> any 443 (msg:"notion.so https access"; tls.sni; dotprefix; content:"notion.so"; sid:10012; rev:1;)
+
+alert tls any any -> any 443 (msg:"hancomdocs.com https access"; tls.sni; dotprefix; content:"hancomdocs.com"; sid:10013; rev:1;)
+
+alert tls any any -> any 443 (msg:"classum.com https access"; tls.sni; dotprefix; content:"classum.com"; sid:10014; rev:1;)
+
+alert tls any any -> any 443 (msg:"jbnu.ac.kr https access"; tls.sni; dotprefix; content:"jbnu.ac.kr"; sid:100015; rev:1;)
+
+alert tls any any -> any 443 (msg:"pwnable.kr https access"; tls.sni; dotprefix; content:"pwnable.kr"; sid:10016; rev:1;)
+
+alert tls any any -> any 443 (msg:"acmicpc.net https access"; tls.sni; dotprefix; content:"acmicpc.net"; sid:10017; rev:1;)
+
+alert tls any any -> any 443 (msg:"dreamhack.io https access"; tls.sni; dotprefix; content:"dreamhack.io"; sid:10018; rev:1;)
+
+alert tls any any -> any 443 (msg:"inflearn.com https access"; tls.sni; dotprefix; content:"inflearn.com"; sid:10019; rev:1;)
+
+alert tls any any -> any 443 (msg:"g2sh.me https access"; tls.sni; dotprefix; content:"g2sh.me"; sid:10020; rev:1;)
